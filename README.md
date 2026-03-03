@@ -55,6 +55,7 @@ conda activate fraud_ml
 pip install -r requirements.txt
 
 python -m streamlit run app/streamlit_app.py
+'''
 
 ## Demo screenshot
 
