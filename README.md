@@ -61,7 +61,11 @@ python -m streamlit run app/streamlit_app.py
 
 ![Demo 1](assets/demo1.png)
 
-![Demo 2](assets/demo2.png)
+### Fraud Transaction
 
-![Demo 3](assets/demo3.png)
+![Fraud Transaction](assets/demo2.png)
+
+### Not Fraud Transaction
+
+![Not Fraud Transaction](assets/demo3.png)
 
