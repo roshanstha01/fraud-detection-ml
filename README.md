@@ -46,17 +46,6 @@ Result at best threshold:
 - False Negatives (FN): 10
 - Total cost = `500*FN + 5*FP = 5615`
 
-## How to run
-
-### 1) Create environment (conda)
-```bash
-conda create -n fraud_ml python=3.10
-conda activate fraud_ml
-pip install -r requirements.txt
-
-python -m streamlit run app/streamlit_app.py
-```
-
 ## Demo screenshot
 
 ![Demo 1](assets/demo1.png)
